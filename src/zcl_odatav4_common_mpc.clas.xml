@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_ODATAV4_COMMON_MPC</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Simple OData v4 service provider: Model</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ODATAV4_COMMON_MPC</CLSNAME>
+     <CMPNAME>ADD_NAVIGATION_PROPERTIES</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Add navigation properties to an entity</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ODATAV4_COMMON_MPC</CLSNAME>
+     <CMPNAME>CREATE_FROM_SERVICE_ID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Create Instance from OData v4 Service</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ODATAV4_COMMON_MPC</CLSNAME>
+     <CMPNAME>DEFINE_MODEL_BY_DDIC_STRUCTURE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Define model by DDIC structure</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ODATAV4_COMMON_MPC</CLSNAME>
+     <CMPNAME>GET_ENTITY_LIST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Entity list from customizing</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ODATAV4_COMMON_MPC</CLSNAME>
+     <CMPNAME>MS_SERVICE_ID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>OData V4 Service ID &amp; Version (Search Help)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ODATAV4_COMMON_MPC</CLSNAME>
+     <CMPNAME>MV_GROUP_ID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>OData V4 Group ID</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

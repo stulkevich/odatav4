@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZE_ODATAV4_NAV_MULTIPLICITY</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>ZD_ODATAV4_NAV_MULTIPLICITY</DOMNAME>
+    <HEADLEN>12</HEADLEN>
+    <SCRLEN1>04</SCRLEN1>
+    <SCRLEN2>12</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>OData v4 Navigation Property Multiplicity</DDTEXT>
+    <REPTEXT>Multiplicity</REPTEXT>
+    <SCRTEXT_S>Mltp</SCRTEXT_S>
+    <SCRTEXT_M>Multiplicity</SCRTEXT_M>
+    <SCRTEXT_L>OData v4 Navigation Property Multiplicit</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

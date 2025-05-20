@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZOTC_ODATA_W2</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>OData service related messages</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZOTC_ODATA_W2</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZOTC_ODATA_W2</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Filter is required</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZOTC_ODATA_W2</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>Required key Posnr is missing</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZOTC_ODATA_W2</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>Required key Vbeln is missing</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZOTC_ODATA_W2</ARBGB>
+     <MSGNR>046</MSGNR>
+     <TEXT>Can not update key field &amp;1 value &amp;2 with new value &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZOTC_ODATA_W2</ARBGB>
+     <MSGNR>047</MSGNR>
+     <TEXT>Record already exists with key &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZOTC_ODATA_W2</ARBGB>
+     <MSGNR>048</MSGNR>
+     <TEXT>Modification operations are not allowed on CDS Views (&amp;1 is a CDS View)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZOTC_ODATA_W2</ARBGB>
+     <MSGNR>049</MSGNR>
+     <TEXT>Not implemented</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZOTC_ODATA_W2</ARBGB>
+     <MSGNR>050</MSGNR>
+     <TEXT>Record not found for &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZOTC_ODATA_W2</ARBGB>
+     <MSGNR>051</MSGNR>
+     <TEXT>Filter, top or navigation must be used to access entity set &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZOTC_ODATA_W2</ARBGB>
+     <MSGNR>052</MSGNR>
+     <TEXT>Entity key &amp;1 does not match key in payload</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

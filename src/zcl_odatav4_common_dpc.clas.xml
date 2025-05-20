@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_ODATAV4_COMMON_DPC</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Simple OData v4 service provider: Data</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ODATAV4_COMMON_DPC</CLSNAME>
+     <CMPNAME>CREATE_ENTITY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Create an entity</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ODATAV4_COMMON_DPC</CLSNAME>
+     <CMPNAME>CREATE_FROM_SERVICE_ID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Create Instance from OData v4 Service ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ODATAV4_COMMON_DPC</CLSNAME>
+     <CMPNAME>DELETE_ENTITY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Delete an entity</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ODATAV4_COMMON_DPC</CLSNAME>
+     <CMPNAME>MS_SERVICE_ID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>OData V4 Service ID &amp; Version (Search Help)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ODATAV4_COMMON_DPC</CLSNAME>
+     <CMPNAME>MV_GROUP_ID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>OData V4 Group ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ODATAV4_COMMON_DPC</CLSNAME>
+     <CMPNAME>READ_ENTITY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Read an entity</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ODATAV4_COMMON_DPC</CLSNAME>
+     <CMPNAME>READ_ENTITY_SET</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Read entity set records</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ODATAV4_COMMON_DPC</CLSNAME>
+     <CMPNAME>UPDATE_ENTITY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Update an entity</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
